@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddaf3310-81b2-451e-9a62-7520c8247e56" name="Changes" comment="06/11/2025">
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab004_shortcutHW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab005_NoMainMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab006_MainMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab007_Comments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/generatingRandomNumber.java" afterDir="false" />
+    <list default="true" id="ddaf3310-81b2-451e-9a62-7520c8247e56" name="Changes" comment="06/17/2025">
+      <change afterPath="$PROJECT_DIR$/ex_01_Java_Basic/Lab001_HellowWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_01_Java_Basic/Lab002_Datatypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_01_Java_Basic/Lab003_UserInputExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_01_Java_Basic/Lab004_shortcutHW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_01_Java_Basic/Lab005_NoMainMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_01_Java_Basic/Lab006_MainMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_01_Java_Basic/Lab007_Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex_01_Java_Basic/generatingRandomNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab008_CommentsMulti.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab009_CommentsShortcut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab010_Keyword_Identifiers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/VariableDeclarationandInitialization.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +65,7 @@
     "Application.Lab002_Datatypes.executor": "Run",
     "Application.Lab003_UserInputExample.executor": "Run",
     "Application.Lab007_Comments.executor": "Run",
+    "Application.VariableDeclarationandInitialization.executor": "Run",
     "Application.generatingRandomNumber.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -144,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749609133087</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="06/17/2025">
+      <option name="closed" value="true" />
+      <created>1750182327919</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1750182327919</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -162,6 +178,7 @@
     <MESSAGE value="2nd commit" />
     <MESSAGE value="new" />
     <MESSAGE value="06/11/2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="06/11/2025" />
+    <MESSAGE value="06/17/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="06/17/2025" />
   </component>
 </project>
