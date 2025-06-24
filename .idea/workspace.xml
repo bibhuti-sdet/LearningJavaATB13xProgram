@@ -4,19 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddaf3310-81b2-451e-9a62-7520c8247e56" name="Changes" comment="06/17/2025">
-      <change afterPath="$PROJECT_DIR$/ex_01_Java_Basic/Lab001_HellowWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_01_Java_Basic/Lab002_Datatypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_01_Java_Basic/Lab003_UserInputExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_01_Java_Basic/Lab004_shortcutHW.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_01_Java_Basic/Lab005_NoMainMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_01_Java_Basic/Lab006_MainMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_01_Java_Basic/Lab007_Comments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex_01_Java_Basic/generatingRandomNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab008_CommentsMulti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab009_CommentsShortcut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Lab010_Keyword_Identifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/VariableDeclarationandInitialization.java" afterDir="false" />
+    <list default="true" id="ddaf3310-81b2-451e-9a62-7520c8247e56" name="Changes" comment="06/19/2025 - Test">
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/$123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Bibhuti_Sethi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/IncrementandDecrementOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Stringbuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Thisis_VeryLong_Name_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/_123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/_abc_abc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/booleanresult.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,11 +58,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.$123.executor": "Run",
+    "Application.Bibhuti_Sethi.executor": "Run",
+    "Application.Class.executor": "Run",
+    "Application.IncrementandDecrementOperators.executor": "Run",
     "Application.Lab001_HellowWorld.executor": "Run",
     "Application.Lab002_Datatypes.executor": "Run",
     "Application.Lab003_UserInputExample.executor": "Run",
     "Application.Lab007_Comments.executor": "Run",
+    "Application.Thisis_VeryLong_Name_.executor": "Run",
     "Application.VariableDeclarationandInitialization.executor": "Run",
+    "Application._123.executor": "Run",
+    "Application._abc_abc.executor": "Run",
+    "Application.booleanresult.executor": "Run",
     "Application.generatingRandomNumber.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -160,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750182327919</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="06/19/2025 - Test">
+      <option name="closed" value="true" />
+      <created>1750299071572</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1750299071572</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +192,7 @@
     <MESSAGE value="new" />
     <MESSAGE value="06/11/2025" />
     <MESSAGE value="06/17/2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="06/17/2025" />
+    <MESSAGE value="06/19/2025 - Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="06/19/2025 - Test" />
   </component>
 </project>
