@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ddaf3310-81b2-451e-9a62-7520c8247e56" name="Changes" comment="06/19/2025 - Test">
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/$123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Bibhuti_Sethi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/IncrementandDecrementOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Stringbuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/Thisis_VeryLong_Name_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/_123.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/_abc_abc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_01_Java_Basic/booleanresult.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;bibhuti-sdet&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/bibhuti-sdet/LearningJavaATB13xProgram.git&quot;,
+    &quot;accountId&quot;: &quot;e586a57a-a78a-49da-8ffb-deb8c706ce47&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2y4ZsHasE6ZivKowipNn8vqmXym" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.$123.executor": "Run",
+    "Application.Bibhuti_Sethi.executor": "Run",
+    "Application.Class.executor": "Run",
+    "Application.IncrementandDecrementOperators.executor": "Run",
+    "Application.Lab001_HellowWorld.executor": "Run",
+    "Application.Lab002_Datatypes.executor": "Run",
+    "Application.Lab003_UserInputExample.executor": "Run",
+    "Application.Lab007_Comments.executor": "Run",
+    "Application.Thisis_VeryLong_Name_.executor": "Run",
+    "Application.VariableDeclarationandInitialization.executor": "Run",
+    "Application._123.executor": "Run",
+    "Application._abc_abc.executor": "Run",
+    "Application.booleanresult.executor": "Run",
+    "Application.generatingRandomNumber.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "onboarding.tips.debug.path": "C:/Users/bibhu/IdeaProjects/LearningJavaATB13xProgram/src/Main.java"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Lab003_UserInputExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basic.Lab003_UserInputExample" />
+      <module name="LearningJavaATB13xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_01_Java_Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab003_UserInputExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddaf3310-81b2-451e-9a62-7520c8247e56" name="Changes" comment="" />
+      <created>1749096015353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1749096015353</updated>
+    </task>
+    <task id="LOCAL-00001" summary="2nd commit">
+      <option name="closed" value="true" />
+      <created>1749096558095</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749096558095</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2nd commit">
+      <option name="closed" value="true" />
+      <created>1749096970242</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749096970242</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2nd commit">
+      <option name="closed" value="true" />
+      <created>1749097276804</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749097276804</updated>
+    </task>
+    <task id="LOCAL-00004" summary="new">
+      <option name="closed" value="true" />
+      <created>1749237633576</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1749237633578</updated>
+    </task>
+    <task id="LOCAL-00005" summary="new">
+      <option name="closed" value="true" />
+      <created>1749237726623</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749237726623</updated>
+    </task>
+    <task id="LOCAL-00006" summary="06/11/2025">
+      <option name="closed" value="true" />
+      <created>1749609133087</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749609133087</updated>
+    </task>
+    <task id="LOCAL-00007" summary="06/17/2025">
+      <option name="closed" value="true" />
+      <created>1750182327919</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1750182327919</updated>
+    </task>
+    <task id="LOCAL-00008" summary="06/19/2025 - Test">
+      <option name="closed" value="true" />
+      <created>1750299071572</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1750299071572</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2nd commit" />
+    <MESSAGE value="new" />
+    <MESSAGE value="06/11/2025" />
+    <MESSAGE value="06/17/2025" />
+    <MESSAGE value="06/19/2025 - Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="06/19/2025 - Test" />
+  </component>
+</project>
