@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ddaf3310-81b2-451e-9a62-7520c8247e56" name="Changes" comment="06/09/2025">
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab014_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab015_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab016_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab017_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab018_Variables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab018_Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab018_Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +61,7 @@
     "Application.Lab007_Comments.executor": "Run",
     "Application.Lab016_Variables.executor": "Run",
     "Application.Lab017_Variables.executor": "Run",
+    "Application.Lab018_Variables.executor": "Run",
     "Application.Thisis_VeryLong_Name_.executor": "Run",
     "Application.VariableDeclarationandInitialization.executor": "Run",
     "Application._123.executor": "Run",
@@ -179,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750786933938</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="06/09/2025">
+      <option name="closed" value="true" />
+      <created>1750814614004</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1750814614004</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
