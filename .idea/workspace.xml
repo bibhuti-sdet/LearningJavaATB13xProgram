@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddaf3310-81b2-451e-9a62-7520c8247e56" name="Changes" comment="06/09/2025">
+    <list default="true" id="ddaf3310-81b2-451e-9a62-7520c8247e56" name="Changes" comment="06/26/2025">
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab019_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab020_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab021_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab022_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab023_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab024_PrintF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab025_PrintF.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab018_Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab018_Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +67,14 @@
     "Application.Lab016_Variables.executor": "Run",
     "Application.Lab017_Variables.executor": "Run",
     "Application.Lab018_Variables.executor": "Run",
+    "Application.Lab024_PrintF.executor": "Run",
+    "Application.Lab025_PrintF.executor": "Run",
     "Application.Thisis_VeryLong_Name_.executor": "Run",
     "Application.VariableDeclarationandInitialization.executor": "Run",
     "Application._123.executor": "Run",
     "Application._abc_abc.executor": "Run",
     "Application.booleanresult.executor": "Run",
+    "Application.challenge2.executor": "Run",
     "Application.generatingRandomNumber.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -185,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750814614004</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="06/26/2025">
+      <option name="closed" value="true" />
+      <created>1750907158550</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1750907158550</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,6 +222,7 @@
     <MESSAGE value="06/17/2025" />
     <MESSAGE value="06/19/2025 - Test" />
     <MESSAGE value="06/09/2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="06/09/2025" />
+    <MESSAGE value="06/26/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="06/26/2025" />
   </component>
 </project>
