@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddaf3310-81b2-451e-9a62-7520c8247e56" name="Changes" comment="06/09/2025">
+    <list default="true" id="ddaf3310-81b2-451e-9a62-7520c8247e56" name="Changes" comment="06/26/2025">
+      <change afterPath="$PROJECT_DIR$/src/ex_17_OOPs/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_OOPs/Lab0166_OOPs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_17_OOPs/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24_OOPS_Abstraction_Abstract_class/Lab195_Abstraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24_OOPS_Abstraction_Abstract_class/Lab196_Abstraction_Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24_OOPS_Abstraction_Abstract_class/Lab197_AB_Cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_24_OOPS_Abstraction_Abstract_class/Lab198_Abstraction_REAL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_25_OOPS_Abstraction_Interface/LaB199_Interface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab018_Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_02_Java_Basics/Lab018_Variables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +68,16 @@
     "Application.Lab016_Variables.executor": "Run",
     "Application.Lab017_Variables.executor": "Run",
     "Application.Lab018_Variables.executor": "Run",
+    "Application.Lab024_PrintF.executor": "Run",
+    "Application.Lab025_PrintF.executor": "Run",
+    "Application.Lab197_AB_Cars.executor": "Run",
+    "Application.Lab198_Abstraction_REAL.executor": "Run",
     "Application.Thisis_VeryLong_Name_.executor": "Run",
     "Application.VariableDeclarationandInitialization.executor": "Run",
     "Application._123.executor": "Run",
     "Application._abc_abc.executor": "Run",
     "Application.booleanresult.executor": "Run",
+    "Application.challenge2.executor": "Run",
     "Application.generatingRandomNumber.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -77,7 +88,12 @@
     "onboarding.tips.debug.path": "C:/Users/bibhu/IdeaProjects/LearningJavaATB13xProgram/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ex_24_OOPS_Abstraction_Abstract_class" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Lab198_Abstraction_REAL">
     <configuration name="Lab003_UserInputExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basic.Lab003_UserInputExample" />
       <module name="LearningJavaATB13xProgram" />
@@ -91,8 +107,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab198_Abstraction_REAL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_24_OOPS_Abstraction_Abstract_class.Lab198_Abstraction_REAL" />
+      <module name="LearningJavaATB13xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_24_OOPS_Abstraction_Abstract_class.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab198_Abstraction_REAL" />
         <item itemvalue="Application.Lab003_UserInputExample" />
       </list>
     </recent_temporary>
@@ -185,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750814614004</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="06/26/2025">
+      <option name="closed" value="true" />
+      <created>1750907158550</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1750907158550</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,6 +244,7 @@
     <MESSAGE value="06/17/2025" />
     <MESSAGE value="06/19/2025 - Test" />
     <MESSAGE value="06/09/2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="06/09/2025" />
+    <MESSAGE value="06/26/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="06/26/2025" />
   </component>
 </project>
