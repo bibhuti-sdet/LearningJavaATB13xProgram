@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddaf3310-81b2-451e-9a62-7520c8247e56" name="Changes" comment="06/26/2025">
-      <change afterPath="$PROJECT_DIR$/src/ex_17_OOPs/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_OOPs/Lab0166_OOPs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17_OOPs/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24_OOPS_Abstraction_Abstract_class/Lab195_Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24_OOPS_Abstraction_Abstract_class/Lab196_Abstraction_Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24_OOPS_Abstraction_Abstract_class/Lab197_AB_Cars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_24_OOPS_Abstraction_Abstract_class/Lab198_Abstraction_REAL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_25_OOPS_Abstraction_Interface/LaB199_Interface.java" afterDir="false" />
+    <list default="true" id="ddaf3310-81b2-451e-9a62-7520c8247e56" name="Changes" comment="07/08/2025">
+      <change afterPath="$PROJECT_DIR$/src/ex_30_Exceptions/Lab217_Exceptions_Explained.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/SimpleCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +67,8 @@
     "Application.Lab025_PrintF.executor": "Run",
     "Application.Lab197_AB_Cars.executor": "Run",
     "Application.Lab198_Abstraction_REAL.executor": "Run",
+    "Application.Lab217_Exceptions_Explained.executor": "Run",
+    "Application.SimpleCalculator.executor": "Run",
     "Application.Thisis_VeryLong_Name_.executor": "Run",
     "Application.VariableDeclarationandInitialization.executor": "Run",
     "Application._123.executor": "Run",
@@ -89,11 +86,14 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bibhu\IdeaProjects\LearningJavaATB13xProgram" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ex_24_OOPS_Abstraction_Abstract_class" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab198_Abstraction_REAL">
+  <component name="RunManager" selected="Application.SimpleCalculator">
     <configuration name="Lab003_UserInputExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basic.Lab003_UserInputExample" />
       <module name="LearningJavaATB13xProgram" />
@@ -120,8 +120,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleCalculator" />
+      <module name="LearningJavaATB13xProgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SimpleCalculator" />
         <item itemvalue="Application.Lab198_Abstraction_REAL" />
         <item itemvalue="Application.Lab003_UserInputExample" />
       </list>
@@ -223,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750907158550</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="07/08/2025">
+      <option name="closed" value="true" />
+      <created>1751917212548</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1751917212548</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,6 +261,7 @@
     <MESSAGE value="06/19/2025 - Test" />
     <MESSAGE value="06/09/2025" />
     <MESSAGE value="06/26/2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="06/26/2025" />
+    <MESSAGE value="07/08/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="07/08/2025" />
   </component>
 </project>
