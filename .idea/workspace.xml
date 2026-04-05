@@ -4,11 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ddaf3310-81b2-451e-9a62-7520c8247e56" name="Changes" comment="07/08/2025">
-      <change afterPath="$PROJECT_DIR$/src/ex_30_Exceptions/Lab217_Exceptions_Explained.java" afterDir="false" />
+    <list default="true" id="ddaf3310-81b2-451e-9a62-7520c8247e56" name="Changes" comment="09/14/2025">
+      <change afterPath="$PROJECT_DIR$/src/CollectionsFramework/ArrayListExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionsFramework/ArrayListExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionsFramework/ArrayListExample3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionsFramework/ArrayListExample4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionsFramework/ArrayListExampleSortingExample5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionsFramework/ArrayToArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionsFramework/MaxMinArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionsFramework/RemoveDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src" beforeDir="false" afterPath="$PROJECT_DIR$/src" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src/SimpleCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/SimpleCalculator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +58,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.$123.executor": "Run",
+    "Application.ArrayListExample1.executor": "Run",
+    "Application.ArrayListExample2.executor": "Run",
+    "Application.ArrayListExample3.executor": "Run",
+    "Application.ArrayListExample4.executor": "Run",
     "Application.Bibhuti_Sethi.executor": "Run",
     "Application.Class.executor": "Run",
     "Application.IncrementandDecrementOperators.executor": "Run",
@@ -65,6 +74,30 @@
     "Application.Lab018_Variables.executor": "Run",
     "Application.Lab024_PrintF.executor": "Run",
     "Application.Lab025_PrintF.executor": "Run",
+    "Application.Lab029_Literals_P1.executor": "Run",
+    "Application.Lab030_Literals_P2.executor": "Run",
+    "Application.Lab031_Boolean_Literals.executor": "Run",
+    "Application.Lab032_Literals_P3.executor": "Run",
+    "Application.Lab033_Literals.executor": "Run",
+    "Application.Lab034_Char_Literal.executor": "Run",
+    "Application.Lab035_Non_Primitive_Literal.executor": "Run",
+    "Application.Lab036_Operators_Assignment.executor": "Run",
+    "Application.Lab037_Operators_Arithmetic_Operators.executor": "Run",
+    "Application.Lab038_Unary_Operator.executor": "Run",
+    "Application.Lab039_Operator_Modulus.executor": "Run",
+    "Application.Lab040_Relational_Operators.executor": "Run",
+    "Application.Lab041_Logical_Operators.executor": "Run",
+    "Application.Lab042_Interview_Concat_Plus.executor": "Run",
+    "Application.Lab044_BODMAS.executor": "Run",
+    "Application.Lab045_Equal.executor": "Run",
+    "Application.Lab047_OR_AND_GATE.executor": "Run",
+    "Application.Lab048_Interview.executor": "Run",
+    "Application.Lab049_All_Operators.executor": "Run",
+    "Application.Lab050_New_Operator.executor": "Run",
+    "Application.Lab051_InstanceOf_Operator.executor": "Run",
+    "Application.Lab052_Interview.executor": "Run",
+    "Application.Lab055_Interview.executor": "Run",
+    "Application.Lab091_Final_Example$Lab028_Final_Example.executor": "Run",
     "Application.Lab197_AB_Cars.executor": "Run",
     "Application.Lab198_Abstraction_REAL.executor": "Run",
     "Application.Lab217_Exceptions_Explained.executor": "Run",
@@ -83,23 +116,34 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "onboarding.tips.debug.path": "C:/Users/bibhu/IdeaProjects/LearningJavaATB13xProgram/src/Main.java"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bibhu\IdeaProjects\LearningJavaATB13xProgram\src" />
       <recent name="C:\Users\bibhu\IdeaProjects\LearningJavaATB13xProgram" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ex_30_Exceptions" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ex_24_OOPS_Abstraction_Abstract_class" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SimpleCalculator">
-    <configuration name="Lab003_UserInputExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_01_Java_Basic.Lab003_UserInputExample" />
+  <component name="RunManager">
+    <configuration name="Lab049_All_Operators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab049_All_Operators" />
       <module name="LearningJavaATB13xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_01_Java_Basic.*" />
+          <option name="PATTERN" value="ex_04_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab198_Abstraction_REAL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_24_OOPS_Abstraction_Abstract_class.Lab198_Abstraction_REAL" />
+    <configuration name="Lab050_New_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab050_New_Operator" />
       <module name="LearningJavaATB13xProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_24_OOPS_Abstraction_Abstract_class.*" />
+          <option name="PATTERN" value="ex_04_Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,18 +164,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SimpleCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SimpleCalculator" />
+    <configuration name="Lab051_InstanceOf_Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab051_InstanceOf_Operator" />
       <module name="LearningJavaATB13xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_04_Operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab052_Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab052_Interview" />
+      <module name="LearningJavaATB13xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_04_Operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab055_Interview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_04_Operators.Lab055_Interview" />
+      <module name="LearningJavaATB13xProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_04_Operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SimpleCalculator" />
-        <item itemvalue="Application.Lab198_Abstraction_REAL" />
-        <item itemvalue="Application.Lab003_UserInputExample" />
+        <item itemvalue="Application.Lab050_New_Operator" />
+        <item itemvalue="Application.Lab055_Interview" />
+        <item itemvalue="Application.Lab052_Interview" />
+        <item itemvalue="Application.Lab051_InstanceOf_Operator" />
+        <item itemvalue="Application.Lab049_All_Operators" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +317,23 @@
       <option name="project" value="LOCAL" />
       <updated>1751917212548</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="09/13/2025">
+      <option name="closed" value="true" />
+      <created>1757743850158</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1757743850158</updated>
+    </task>
+    <task id="LOCAL-00014" summary="09/14/2025">
+      <option name="closed" value="true" />
+      <created>1757789574081</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1757789574081</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,6 +356,8 @@
     <MESSAGE value="06/09/2025" />
     <MESSAGE value="06/26/2025" />
     <MESSAGE value="07/08/2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="07/08/2025" />
+    <MESSAGE value="09/13/2025" />
+    <MESSAGE value="09/14/2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="09/14/2025" />
   </component>
 </project>
